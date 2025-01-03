@@ -7,3 +7,4 @@ we are adding a new line to this file
 Git is a interesting course to learn
 showing the head changes
 adding a new line of text from bugfix master
+its a bright and sunny day
